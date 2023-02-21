@@ -1,4 +1,9 @@
 [[redirects]]
   from = "/compliment"
-  to = "/new-path"
+  to = "https://alexjpaz.github.io/compliement/"
+  status = 302
+
+[[redirects]]
+  from = "/*"
+  to = "https://linktr.ee/alexjpaz"
   status = 302
