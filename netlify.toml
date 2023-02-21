@@ -1,0 +1,4 @@
+[[redirects]]
+  from = "/compliment"
+  to = "/new-path"
+  status = 302
