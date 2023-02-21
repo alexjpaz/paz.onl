@@ -1,4 +1,9 @@
 [[redirects]]
+  from = "/sfx"
+  to = "https://dhttm9zkbfvzw.cloudfront.net/alexjpaz-twitch/alerts/playground.html"
+  status = 302
+
+[[redirects]]
   from = "/compliment"
   to = "https://alexjpaz.github.io/compliement/"
   status = 302
